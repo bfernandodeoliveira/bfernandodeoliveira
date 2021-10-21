@@ -4,7 +4,7 @@
 
 📫 bfernandodeoliveira@gmail.com
 
-Certificado Profissional em Análise de dados do Google pela [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+Certificado Profissional em Análise de dados do Google - [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 [![google-data-analytics-certificate 150 x 150](https://user-images.githubusercontent.com/25668474/138214366-41f3dae1-9802-4167-86c7-d74b3fbc47a1.png)](https://www.coursera.org/professional-certificates/google-data-analytics)
 
