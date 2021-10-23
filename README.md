@@ -1,12 +1,12 @@
-🌱 Aprendendo Python e cursando ciência de dados na [Univesp](https://univesp.br/cursos/bacharel-em-ciencia-de-dados)
+🌱 Aprendendo Python
 
-🔭 Analista de monitoramento - NOC na [PRODAM](https://portal.prodam.sp.gov.br/)
+👨‍🎓 Cursando ciência de dados na [Univesp](https://univesp.br/cursos/bacharel-em-ciencia-de-dados)
 
-📫 bfernandodeoliveira@gmail.com
+💼 Analista de monitoramento - NOC na [PRODAM](https://portal.prodam.sp.gov.br/)
 
-Certificado Profissional em Análise de dados do Google - [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+📧 bfernandodeoliveira@gmail.com
 
-[![google-data-analytics-certificate 150 x 150](https://user-images.githubusercontent.com/25668474/138214366-41f3dae1-9802-4167-86c7-d74b3fbc47a1.png)](https://www.coursera.org/professional-certificates/google-data-analytics)
+🏆 Certificado Profissional em Análise de dados [Google - Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 <!--
 **bfernandodeoliveira/bfernandodeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
