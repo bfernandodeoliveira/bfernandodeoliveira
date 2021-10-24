@@ -4,6 +4,8 @@
 
 💼 Analista de monitoramento - NOC na [PRODAM](https://portal.prodam.sp.gov.br/)
 
+🔭 [Kaggle](https://www.kaggle.com/bfernandodeoliveira)
+
 📧 bfernandodeoliveira@gmail.com
 
 🏆 Certificado Profissional em Análise de dados [Google - Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
