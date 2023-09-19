@@ -1,8 +1,8 @@
 👨‍🎓 Cursando [Ciência de dados](https://univesp.br/cursos/bacharel-em-ciencia-de-dados) na [Univesp](https://univesp.br/cursos/bacharel-em-ciencia-de-dados)
 
-💼 Analista de tecnologia na [PRODAM](https://portal.prodam.sp.gov.br/)
+🔭 Analista de tecnologia na [PRODAM](https://portal.prodam.sp.gov.br/)
 
-:bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira) :speech_balloon: [Twitter](https://twitter.com/bfeoliveira)
+💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/) :bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira) 💬 [Twitter](https://twitter.com/bfeoliveira)
 
 
 <!--
