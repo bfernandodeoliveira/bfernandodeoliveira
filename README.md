@@ -2,8 +2,9 @@
 
 💼 Analista de tecnologia na [PRODAM](https://portal.prodam.sp.gov.br/)
 
-:bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira)
+:bar_chart: Meu perfil no [Kaggle](https://www.kaggle.com/bfernandodeoliveira)
 
+:speech_balloon: Meu perfil no [Twitter](https://twitter.com/bfeoliveira)
 <!--
 **bfernandodeoliveira/bfernandodeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
