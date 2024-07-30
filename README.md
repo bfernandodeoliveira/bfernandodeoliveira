@@ -1,4 +1,6 @@
-👨‍🎓 Bacharelado em [Ciência de dados](https://univesp.br/cursos/bacharel-em-ciencia-de-dados) na [Univesp](https://univesp.br/cursos/bacharel-em-ciencia-de-dados)
+👨‍🎓 Redes de computadores na Unicsul
+
+👨‍🎓 Ciência de dados na Univesp
 
 💼 Analista de tecnologia na [PRODAM](https://portal.prodam.sp.gov.br/)
 
