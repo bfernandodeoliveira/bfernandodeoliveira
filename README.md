@@ -4,7 +4,7 @@
 
 💼 Analista de tecnologia na [PRODAM](https://portal.prodam.sp.gov.br/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/) :bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira) 💬 [Twitter](https://twitter.com/bfeoliveira)
+💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/) :bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira) 💬 [X](https://x.com/bfeoliveira)
 
 
 <!--
