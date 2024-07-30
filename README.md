@@ -2,7 +2,7 @@
 
 👨‍🎓 Ciência de dados na Univesp
 
-💼 Analista de tecnologia na [PRODAM](https://portal.prodam.sp.gov.br/)
+💼 Analista de monitoramento na [PRODAM](https://portal.prodam.sp.gov.br/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/) :bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira) 💬 [X](https://x.com/bfeoliveira)
 
