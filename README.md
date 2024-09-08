@@ -2,7 +2,7 @@
 
 💼 Analista de monitoramento na [PRODAM](https://portal.prodam.sp.gov.br/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/) :bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira) 💬 [X](https://x.com/bfeoliveira)
+💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64d43e88aa497d7fa51e7a42?variant=dark)](https://roadmap.sh)
 
