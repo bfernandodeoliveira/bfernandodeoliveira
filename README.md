@@ -1,6 +1,4 @@
-👨‍🎓 Redes de computadores na Unicsul
-
-👨‍🎓 Ciência de dados na Univesp
+👨‍🎓 Tecnólogo em Redes de computadores na Unicsul e graduado em Ciência de dados na Univesp
 
 💼 Analista de monitoramento na [PRODAM](https://portal.prodam.sp.gov.br/)
 
