@@ -6,6 +6,7 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/) :bar_chart: [Kaggle](https://www.kaggle.com/bfernandodeoliveira) 💬 [X](https://x.com/bfeoliveira)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/64d43e88aa497d7fa51e7a42?variant=dark)](https://roadmap.sh)
 
 <!--
 **bfernandodeoliveira/bfernandodeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
