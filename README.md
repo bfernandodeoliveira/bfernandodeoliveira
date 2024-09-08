@@ -1,8 +1,6 @@
 👨‍🎓 Tecnólogo em Redes de computadores na Unicsul e graduado em Ciência de dados na Univesp
 
-💼 Analista de monitoramento na [PRODAM](https://portal.prodam.sp.gov.br/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/)
+💼 Analista de monitoramento na [PRODAM](https://portal.prodam.sp.gov.br/)  [LinkedIn](https://www.linkedin.com/in/bfernandodeoliveira/)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64d43e88aa497d7fa51e7a42?variant=dark)](https://roadmap.sh)
 
